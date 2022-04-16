@@ -1,6 +1,6 @@
 # MIUI
 
-[**English**](https://github.com/chiron-mix2/MIUI/READMEEN.md)
+[**English**](https://github.com/chiron-mix2/MIUI/blob/main/READMEEN.md)
 
 提示：此页面为Chiron(Mix2)MIUI的ROM存档页面，本组织不对任何可能潜在的风险负责。
 
